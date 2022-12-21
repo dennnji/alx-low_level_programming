@@ -22,3 +22,4 @@ printf("a[2] = %d\n", a[2]);
 return (0);
 }
 
+
